@@ -66,7 +66,8 @@
 
 | Chat UI | Login Screen | User Online Status |
 |--------|--------------|--------------------|
-| ![Chat](./screenshots/chat-ui.png) | ![Login](./screenshots/login.png) | ![Status](./screenshots/online-status.png) |
+| ![Chat](![Screenshot 2025-05-27 002439](https://github.com/user-attachments/assets/fca2a838-1d96-4691-b15b-2096b717a204)
+) | ![Login](./screenshots/login.png) | ![Status](./screenshots/online-status.png) |
 
 ---
 
