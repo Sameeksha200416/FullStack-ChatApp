@@ -62,13 +62,13 @@
 
 ## 📸 Screenshots
 
-> Add your screenshots below by uploading them to a `/screenshots` folder or external hosting.
+> Some Preview of Chatty Application
 
-(![image](https://github.com/user-attachments/assets/230d0b9c-7457-48a8-acd2-7f4aca777a70))
-(![Screenshot 2025-05-27 003211](https://github.com/user-attachments/assets/e73e1556-c192-4fe6-bb39-c3d8fc48b490))
-(![Screenshot 2025-05-27 002439](https://github.com/user-attachments/assets/61d6043f-e057-4883-914b-772e6a81c155))
-(![Screenshot 2025-05-27 002633](https://github.com/user-attachments/assets/141daaec-74da-4c3c-942f-4763fd0cb8cd))
-(![Screenshot 2025-05-27 002342](https://github.com/user-attachments/assets/e9c01e25-bbed-48d2-8381-fce41e76c9f8))
+![image](https://github.com/user-attachments/assets/230d0b9c-7457-48a8-acd2-7f4aca777a70)
+![Screenshot 2025-05-27 003211](https://github.com/user-attachments/assets/e73e1556-c192-4fe6-bb39-c3d8fc48b490)
+![Screenshot 2025-05-27 002439](https://github.com/user-attachments/assets/61d6043f-e057-4883-914b-772e6a81c155)
+![Screenshot 2025-05-27 002633](https://github.com/user-attachments/assets/141daaec-74da-4c3c-942f-4763fd0cb8cd)
+![Screenshot 2025-05-27 002342](https://github.com/user-attachments/assets/e9c01e25-bbed-48d2-8381-fce41e76c9f8)
 
 
 ---
