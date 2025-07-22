@@ -21,6 +21,7 @@ app.use(cors({
   origin: [
     "http://localhost:5173",
     "https://full-stack-chat-app-mkbr.vercel.app",
+    "https://full-stack-chat-app-6njh.vercel.app",
     "https://full-stack-chat-app-6njh-git-main-sameeksha200416s-projects.vercel.app"
   ],
   credentials: true,
