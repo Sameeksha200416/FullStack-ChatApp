@@ -7,7 +7,13 @@ const app = express();
 const server = http.createServer(app);
 const io = new Server(server,{
     cors: {
-        origin: "http://localhost:5173"
+        origin: [
+            "http://localhost:5173",
+            "https://full-stack-chat-app-mkbr.vercel.app",
+            "https://full-stack-chat-app-6njh.vercel.app",
+            "https://full-stack-chat-app-6njh-git-main-sameeksha200416s-projects.vercel.app"
+        ],
+        credentials: true
     }
 });
 const userSocketMap = {};
