@@ -18,9 +18,14 @@ app.use(express.urlencoded({ limit: "10mb", extended: true }))
 app.use(express.json({ limit: "10mb" }));
 app.use(cookieParser());
 app.use(cors({
-    origin: "http://localhost:5173",
-    credentials: true,
-}))
+  origin: [
+    "http://localhost:5173",
+    "https://full-stack-chat-app-mkbr.vercel.app",
+    "https://full-stack-chat-app-6njh-git-main-sameeksha200416s-projects.vercel.app"
+  ],
+  credentials: true,
+}));
+
 
 app.get("/",(req,res) => {
     res.send("API is running");
